@@ -24,19 +24,6 @@ box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 
 }
 
-label{
-
-    margin-bottom: 6px;
-}
-input{
-
-   margin-bottom: 6px;
-   padding: 5px;
-   outline: 0;
-   border: 1px solid rgba(0, 0, 0, 0.4);
-
-}
-
 
 .navbar {
   position: relative;
